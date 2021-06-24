@@ -1,0 +1,14 @@
+{
+    "binance" : {
+        "api_url" : "https://api.binance.com",
+        "api_key" : "<removed>",
+        "api_secret" : "<removed>",
+        "config" : {
+            "base_currency" : "BTC",
+            "quote_currency" : "ZAR",
+            "granularity" : "1h",
+            "live" : 0,
+            "verbose" : 0
+        }
+    }
+}
