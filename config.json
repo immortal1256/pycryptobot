@@ -11,7 +11,7 @@
             "verbose" : 0
         }
     }
-},
+}
 "telegram" : {
          "token" : "1703008454:AAE7G7PIx6HCpZMojXsh6o_v6jCfA8W5wr8",
          "client_id" : "https://api.telegram.org/bot1703008454:AAE7G7PIx6HCpZMojXsh6o_v6jCfA8W5wr8/getUpdates"
