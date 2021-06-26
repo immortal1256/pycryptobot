@@ -1,8 +1,8 @@
 {
     "binance": {
         "api_url": "https://api.binance.com",
-        "api_key": "4u4Y29W8IKOl2X8vs79YugbvZGMXym6uk5kdOStgKFqJZbEPzItYVufPNfozLnhh",
-        "api_secret" : "OC3niwlYfp4x92N82338jWp8IHvgHWevWUwhK4Zv7nQ0Qt0M04Vud5FcFdZKCJ5n",
+        "api_key": "eY31tjveChTo08w3EjtTSWvb19rlkdikA1KNNFbA9Ynliy7mcbvyfH9W3sHa5iyu",
+        "api_secret" : "8VR2CQluUMnRuQ3VXUUaYSmzqQk8BREMVLun4SEbcHbXOxGSNotxFlSDuV33Hvyb",
         "config": {
             "base_currency": "DOGE",
             "quote_currency": "USDT",
