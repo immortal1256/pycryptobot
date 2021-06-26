@@ -1,19 +1,47 @@
 {
-    "binance" : {
-        "api_url" : "https://api.binance.com",
-        "api_key" : "4u4Y29W8IKOl2X8vs79YugbvZGMXym6uk5kdOStgKFqJZbEPzItYVufPNfozLnhh",
+    "binance": {
+        "api_url": "https://api.binance.com",
+        "api_key": "4u4Y29W8IKOl2X8vs79YugbvZGMXym6uk5kdOStgKFqJZbEPzItYVufPNfozLnhh",
         "api_secret" : "OC3niwlYfp4x92N82338jWp8IHvgHWevWUwhK4Zv7nQ0Qt0M04Vud5FcFdZKCJ5n",
-        "config" : {
-            "base_currency" : "BNB",
-            "quote_currency" : "USDT",
-            "granularity" : "1h",
-            "live" : 0,
-            "verbose" : 0
+        "config": {
+            "base_currency": "DOGE",
+            "quote_currency": "USDT",
+            "granularity": "1h",
+            "sellatloss": 1,
+            "disablebullonly": 1,
+            "graphs": 1,
+            "live": 1,
+            "autorestart": 1,
+            "verbose": 0
         }
+    },
+    "telegram": {
+    "token": "1703008454:AAE7G7PIx6HCpZMojXsh6o_v6jCfA8W5wr8",
+    "client_id": "https://api.telegram.org/bot1703008454:AAE7G7PIx6HCpZMojXsh6o_v6jCfA8W5wr8/getUpdates"
+    },
+    "logger": {
+    "filelog": 1,
+    "logfile": "pycryptobot.log",
+    "fileloglevel": "DEBUG",
+    "consolelog": 1,
+    "consoleloglevel": "INFO"
     }
 }
-"telegram" : {
-         "token" : "1703008454:AAE7G7PIx6HCpZMojXsh6o_v6jCfA8W5wr8",
-         "client_id" : "https://api.telegram.org/bot1703008454:AAE7G7PIx6HCpZMojXsh6o_v6jCfA8W5wr8/getUpdates"
-     }
-}
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
