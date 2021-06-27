@@ -1,0 +1,17 @@
+ "config" : {
+            "base_currency" : "ETH",
+            "quote_currency" : "USD",
+            "live" : 1,
+            "sellatloss" : 0,
+            "sellatresistance" : 0,
+            "disablebullonly" : 1,
+            "disablebuynearhigh" : 1,
+            "disablebuyobv" : 1,
+            "disablebuyelderray" : 1,
+            "disablebuymacd" : 0,
+            "disablelog" : 0,
+            "disabletracker" : 0,
+            "smartswitch" : 1,
+            "graphs" : 1,
+            "verbose" : 0
+        }
