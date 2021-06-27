@@ -3,11 +3,12 @@
         "api_url" : "https://api.binance.com",
         "api_key" : "eY31tjveChTo08w3EjtTSWvb19rlkdikA1KNNFbA9Ynliy7mcbvyfH9W3sHa5iyu",
         "api_secret" : "8VR2CQluUMnRuQ3VXUUaYSmzqQk8BREMVLun4SEbcHbXOxGSNotxFlSDuV33Hvyb",
-            "base_currency" : "BTC",
         "config" : {
+            "base_currency" : "BTC",
             "quote_currency" : "ZAR",
             "granularity" : "1h",
             "live" : 0,
             "verbose" : 0
         }
-    },
+    }
+}
