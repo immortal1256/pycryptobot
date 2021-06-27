@@ -606,10 +606,6 @@ class TechnicalAnalysis():
 
         if period < 5 or period > 200:
             raise ValueError('Period is out of range')
-
-        if len(self.df) < period:
-            raise Exception('Data range too small.')
-
         self.df['sma' + str(period)] = self.simpleMovingAverage(period)
 
     def addGoldenCross(self) -> None:
